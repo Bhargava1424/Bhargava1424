@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=![1724825044856](https://github.com/user-attachments/assets/2c073551-477a-4f02-81a7-8d1c53755ba0)alt="Sri Bhargava Bhamidi" width="100%">
+  <img src="https://github.com/user-attachments/assets/2c073551-477a-4f02-81a7-8d1c53755ba0" alt="Sri Bhargava Bhamidi" width="100%">
 </div>
 
 # 👋 Hi, I'm Sri Bhargava Bhamidi
