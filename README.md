@@ -70,7 +70,6 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
 <p align="center">
   <img src="https://img.shields.io/badge/Sports-Cricket%20%7C%20Football-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR4nGNgwANuCJr+B+GbQmb/MdQRUvxQ0AJsyf///5kIGgJT/EzQBmwJNkNwGvJMwBqn5idCNjgNeSFgidOQl4KWOA15LWiD05A3grY4DXknaIPTkPeCNjgN+SBog9OQj4I2OA35JGiD05DPgjY4DfkiaIPTkK+CNjgN+SZog9OQ74I2OA35IWiD05CfgjY4DfklaIPTkN+CNjgN+SNog9OQv4I2OA35J2iD05D/gjY4DSFoCFbFuBTjVIxPMS7FWBVjVYxNMYZirIqxKsamGEMxVsXYFGNTjKEYq2JsirEpxlCMVTE2xdgUYyjGqhibYmyKMRRjVYxNMTbFGIqxKsamGEMxAJFSyg1/XBMPAAAAAElFTkSuQmCC" alt="Sports" />
   <img src="https://img.shields.io/badge/TV%20Shows-Vikings%20%7C%20Rick%20and%20Morty-blue?style=for-the-badge&logo=tv-time" alt="TV Shows" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge&logo=open-source-initiative" alt="Open Source" />
   <img src="https://img.shields.io/badge/Continuous%20Learning-Tech%20Enthusiast-red?style=for-the-badge&logo=google-scholar" alt="Continuous Learning" />
 </p>
 
