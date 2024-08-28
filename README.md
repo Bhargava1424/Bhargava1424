@@ -38,7 +38,7 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
 - Developed a dynamic landing page and integrated OCR technology using the MERN stack
 - Enhanced customer engagement and streamlined data processing
 - Improved accuracy and operational efficiency
-- Skills: Full-Stack Development, MERN Stack, OCR Technology, Problem Solving
+  #Skills: Full-Stack Development, MERN Stack, OCR Technology, Problem Solving
 
 ### WordPress Developer at Synergy Solutions International Limited
 *Freelance | May 2024 - Jul 2024 | Remote*
@@ -46,7 +46,7 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
 - Empowered grandparents in the UK to share their stories and experiences
 - Utilized WordPress's flexibility and customization options to create a warm and inviting online space
 - Successfully launched the website, enabling intergenerational connections
-- Skills: WordPress, Web Design, User Experience (UX), Content Management Systems (CMS)
+  #Skills: WordPress, Web Design, User Experience (UX), Content Management Systems (CMS)
 
 ### Full-stack Developer at 9 Education
 *Freelance | Oct 2023 - Mar 2024 | Remote*
@@ -54,7 +54,7 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
 - Enhanced user experience and security across various roles
 - Automated administrative tasks, significantly reducing manual entry
 - Improved operational efficiency and data accuracy
-- Skills: Full-Stack Development, React, Flask, MongoDB, Database Management, User Authentication
+  #Skills: Full-Stack Development, React, Flask, MongoDB, Database Management, User Authentication
 
 ## 📊 GitHub Stats
 
