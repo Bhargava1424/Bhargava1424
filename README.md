@@ -28,25 +28,39 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-## 🌟 Featured Projects
+## 💼 Professional Experience
 
-### 1. Dynamic Landing Page with OCR (MERN Stack)
-Developed for Hyderabad Forex Limited, this project enhanced customer engagement and streamlined data processing using OCR technology.
+### Full-stack Developer at Hyderabad Forex Limited
+*Freelance | Apr 2024 - Aug 2024 | Remote*
+- Developed a dynamic landing page and integrated OCR technology using the MERN stack
+- Enhanced customer engagement and streamlined data processing
+- Improved accuracy and operational efficiency
+- Skills: Full-Stack Development, MERN Stack, OCR Technology, Problem Solving
 
-### 2. Grandparents' Blogging Platform (WordPress)
-Created a user-friendly WordPress website for UK grandparents to share their stories and experiences, fostering intergenerational connections.
+### WordPress Developer at Synergy Solutions International Limited
+*Freelance | May 2024 - Jul 2024 | Remote*
+- Designed and developed a user-friendly WordPress website for a blogging platform
+- Empowered grandparents in the UK to share their stories and experiences
+- Utilized WordPress's flexibility and customization options to create a warm and inviting online space
+- Successfully launched the website, enabling intergenerational connections
+- Skills: WordPress, Web Design, User Experience (UX), Content Management Systems (CMS)
 
-### 3. Student Data & Fee Management System (React, Flask, MongoDB)
-Implemented for 9 Education, this comprehensive system improved operational efficiency and data accuracy in educational administration.
+### Full-stack Developer at 9 Education
+*Freelance | Oct 2023 - Mar 2024 | Remote*
+- Implemented a comprehensive student data and fee management system using React, Flask, and MongoDB
+- Enhanced user experience and security across various roles
+- Automated administrative tasks, significantly reducing manual entry
+- Improved operational efficiency and data accuracy
+- Skills: Full-Stack Development, React, Flask, MongoDB, Database Management, User Authentication
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sribhargavabhamidi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bhargava1424&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sribhargavabhamidi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargava1424&theme=dark" alt="GitHub Streak">
 </p>
 
 ## 🤝 Connect with Me
