@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="path_to_your_banner_image.png" alt="Sri Bhargava Bhamidi" width="100%">
+  <img src=![1724825044856](https://github.com/user-attachments/assets/2c073551-477a-4f02-81a7-8d1c53755ba0)
+"" alt="Sri Bhargava Bhamidi" width="100%">
 </div>
-#
+
 # 👋 Hi, I'm Sri Bhargava Bhamidi
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MS+Computer+Science+%40+Uni+at+Buffalo;Full-Stack+Developer;Software+Engineer;Innovation+Seeker;Freelancer" alt="Typing SVG" />
