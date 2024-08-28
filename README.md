@@ -39,13 +39,7 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
 - Enhanced customer engagement and streamlined data processing
 - Improved accuracy and operational efficiency
 
-**Skills:** 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-0089D6?style=for-the-badge" alt="Full-Stack Development"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-00C7B7?style=for-the-badge" alt="MERN Stack"/>
-  <img src="https://img.shields.io/badge/OCR%20Technology-FF6C37?style=for-the-badge" alt="OCR Technology"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-FFA116?style=for-the-badge" alt="Problem Solving"/>
-</p>
+**Skills:** `Full-Stack Development` `MERN Stack` `OCR Technology` `Problem Solving`
 
 ### WordPress Developer at Synergy Solutions International Limited
 *Freelance | May 2024 - Jul 2024 | Remote*
@@ -54,13 +48,7 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
 - Utilized WordPress's flexibility and customization options to create a warm and inviting online space
 - Successfully launched the website, enabling intergenerational connections
 
-**Skills:** 
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Web%20Design-FF7F50?style=for-the-badge" alt="Web Design"/>
-  <img src="https://img.shields.io/badge/User%20Experience%20(UX)-4FC08D?style=for-the-badge" alt="User Experience (UX)"/>
-  <img src="https://img.shields.io/badge/CMS-2496ED?style=for-the-badge" alt="Content Management Systems"/>
-</p>
+**Skills:** `WordPress` `Web Design` `User Experience (UX)` `Content Management Systems (CMS)`
 
 ### Full-stack Developer at 9 Education
 *Freelance | Oct 2023 - Mar 2024 | Remote*
@@ -69,15 +57,7 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
 - Automated administrative tasks, significantly reducing manual entry
 - Improved operational efficiency and data accuracy
 
-**Skills:** 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-0089D6?style=for-the-badge" alt="Full-Stack Development"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Database%20Management-4479A1?style=for-the-badge" alt="Database Management"/>
-  <img src="https://img.shields.io/badge/User%20Authentication-FF6C37?style=for-the-badge" alt="User Authentication"/>
-</p>
+**Skills:** `Full-Stack Development` `React` `Flask` `MongoDB` `Database Management` `User Authentication`
 
 ## 📊 GitHub Stats
 
