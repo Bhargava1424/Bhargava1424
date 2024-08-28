@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Sri Bhargava Bhamidi
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhargava1424&theme=nord_dark" alt="GitHub Profile Summary" width="100%">
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MS+Computer+Science+%40+Uni+at+Buffalo;Full-Stack+Developer;Software+Engineer;Innovation+Seeker;Freelancer" alt="Typing SVG" />
 </div>
@@ -66,6 +61,11 @@ I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargava1424&theme=dark" alt="GitHub Streak">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhargava1424&theme=nord_dark" alt="GitHub Profile Summary" width="100%">
+</p>
+
 
 ## 🤝 Connect with Me
 
