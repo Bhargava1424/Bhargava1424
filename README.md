@@ -85,33 +85,18 @@
 ## 💼 Professional Experience
 
 ### 🔹 Nine Inspirex Private Limited (October 2023 - August 2024)
-<p>
-  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
-</p>
-
 - Built ERP system managing 2000+ students using React, Flask, and MongoDB
 - Developed SAT tool analyzing 1600+ students' behavior with MERN stack
 - Implemented JWT authentication and role-based access control
 - Integrated Google Cloud for scalable data storage and retrieval
 
 ### 🔹 Hyderabad Forex Private Limited (April 2024 - August 2024)
-<p>
-  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
-</p>
-
 - Developed dynamic landing page with MERN stack
 - Implemented OCR for processing 5 types of government documents
 - Created admin panel with real-time WhatsApp and email notifications
 - Integrated RBI guidelines for compliance
 
 ### 🔹 Synergy Solution UK (June 2024 - August 2024)
-<p>
-  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Remote-green?style=flat-square"/>
-</p>
-
 - Built GranHub blog site using WordPress
 - Implemented interactive features and games
 - Created community engagement features
@@ -120,22 +105,12 @@
 ## 🎯 Notable Projects
 
 ### 🤖 Drug-Drug Interaction Predictor
-<p>
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neural_Networks-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
 - Developed AI-based ensemble deep neural network
 - Achieved 93.80% accuracy in predicting interactions
 - Supported pharmacovigilance and medical decisions
 - Enhanced drug development processes
 
 ### 📊 Classroom Attendance System
-<p>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Face_Recognition-FF0000?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
 - Implemented real-time face detection using Haar Cascade
 - Integrated MTCNN and InceptionResnetV1
 - Selected for college-wide implementation
