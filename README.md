@@ -173,16 +173,67 @@
   </a>
 </div>
 
-<!-- Matrix Rain Animation -->
+<!-- Particle Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain"/>
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Particle Animation"/>
 </div>
 
-<!-- Animated Footer -->
+<!-- 3D Contribution Calendar -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://skyline.github.com/Bhargava1424/2024" width="600" alt="3D Contribution Calendar"/>
 </div>
 
+<!-- Terminal Style Animation -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
+
+<!-- Spinning Earth Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Spinning Earth"/>
+</div>
+
+<!-- Code Rain Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Code Rain"/>
+</div>
+
+<!-- Dynamic Wave Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Glowing Line Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glowing Line"/>
+</div>
+
+<!-- Animated Footer with Multiple Waves -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+  
+  <!-- Profile Views Counter with Neon Effect -->
   <img src="https://komarev.com/ghpvc/?username=Bhargava1424&style=for-the-badge&color=3B71F3"/>
+  
+  <!-- Animated ASCII Art -->
+  <pre>
+  █▀▀▄ █  █ █▀▀█ █▀▀█ █▀▀▀ █▀▀█ █  █ █▀▀█ 
+  █▀▀▄ █▄▄█ █▄▄█ █▄▄▀ █ ▀█ █▄▄█ █  █ █▄▄█ 
+  ▀▀▀  ▄▄▄█ ▀  ▀ ▀ ▀▀ ▀▀▀▀ ▀  ▀  ▀▀▀ ▀  ▀
+  </pre>
+  
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B71F3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  </a>
+  
+  <!-- Rainbow Line -->
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif">
+  
+  <!-- Tech Stack Animation -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
