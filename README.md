@@ -1,98 +1,188 @@
+<!-- Custom Matrix Style Header -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2c073551-477a-4f02-81a7-8d1c53755ba0" alt="Sri Bhargava Bhamidi" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SRI%20BHARGAVA%20BHAMIDI&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20MS%20CS%20Student&descAlignY=60" width="100%"/>
 </div>
 
-# 👋 Hi, I'm Sri Bhargava Bhamidi
+<!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MS+Computer+Science+%40+Uni+at+Buffalo;Full-Stack+Developer;Software+Engineer;Innovation+Seeker;Freelancer" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <h1>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/graduation-cap_1f393.png" width="40" alt="Graduate"/>
+    Sri Bhargava Bhamidi
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png" width="40" alt="Laptop"/>
+  </h1>
 
-I'm a passionate Full-Stack Developer and Software Engineer, currently pursuing my MS in Computer Science at the University at Buffalo. I'm dedicated to creating innovative solutions and continuously expanding my skills in the ever-evolving tech landscape.
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B71F3&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer+💻;MS+CS+Student+at+UB+🎓;AI+%26+ML+Enthusiast+🤖;Cloud+Computing+Expert+☁️" alt="Typing SVG" />
+  </a>
 
-- 🔭 I'm currently working on deepening my expertise in software development and full-stack engineering
-- 🌱 I'm learning advanced software architecture and machine learning
-- 👯 I'm looking to collaborate on innovative projects and internships
-- 🎯 2024 Goals: Contribute more to Open Source projects and expand my professional network
-- 🤝 I'm actively seeking opportunities to contribute to meaningful open-source projects
+  <!-- Social Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/sribhargavabhamidi">
+      <img src="https://img.shields.io/badge/-sribhargavabhamidi-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:sribhargava2002@gmail.com">
+      <img src="https://img.shields.io/badge/-sribhargava2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Bhargava1424">
+      <img src="https://img.shields.io/badge/-Bhargava1424-grey?style=flat-square&logo=github"/>
+    </a>
+  </p>
+</div>
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/thuanpham2311/thuanpham2311/master/assets/programming.gif"/>
+
+- 🎓 **Education**: 
+  - MS in Computer Science at University at Buffalo (2024-2026)
+  - B.Tech in Computer Science (8.1/10) from CVR College of Engineering
+- 💼 **Experience**: Full-Stack Developer with expertise in MERN Stack
+- 🚀 **Focus**: AI/ML, Cloud Computing, and Web Development
+- 🎯 **Expertise**: Web Development, System Architecture, Data Analysis
+- 📚 **Key Subjects**: OOP, Advanced Java, Python, Data Science, Web Dev, Big Data Analysis
+
+## 🛠️ Technical Arsenal
+
+### Languages & Core Technologies
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 ## 💼 Professional Experience
 
-### Full-stack Developer at Hyderabad Forex Limited
-*Freelance | Apr 2024 - Aug 2024 | Remote*
-- Developed a dynamic landing page and integrated OCR technology using the MERN stack
-- Enhanced customer engagement and streamlined data processing
-- Improved accuracy and operational efficiency
-
-**Skills:** `Full-Stack Development` `MERN Stack` `OCR Technology` `Problem Solving`
-
-### WordPress Developer at Synergy Solutions International Limited
-*Freelance | May 2024 - Jul 2024 | Remote*
-- Designed and developed a user-friendly WordPress website for a blogging platform
-- Empowered grandparents in the UK to share their stories and experiences
-- Utilized WordPress's flexibility and customization options to create a warm and inviting online space
-- Successfully launched the website, enabling intergenerational connections
-
-**Skills:** `WordPress` `Web Design` `User Experience (UX)` `Content Management Systems (CMS)`
-
-### Full-stack Developer at 9 Education
-*Freelance | Oct 2023 - Mar 2024 | Remote*
-- Implemented a comprehensive student data and fee management system using React, Flask, and MongoDB
-- Enhanced user experience and security across various roles
-- Automated administrative tasks, significantly reducing manual entry
-- Improved operational efficiency and data accuracy
-
-**Skills:** `Full-Stack Development` `React` `Flask` `MongoDB` `Database Management` `User Authentication`
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bhargava1424&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhargava1424&theme=nord_dark" alt="GitHub Profile Summary" width="100%">
+### 🔹 Nine Inspirex Private Limited (October 2023 - August 2024)
+<p>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
 </p>
 
-## 🎨 Interests & Hobbies
+- Built ERP system managing 2000+ students using React, Flask, and MongoDB
+- Developed SAT tool analyzing 1600+ students' behavior with MERN stack
+- Implemented JWT authentication and role-based access control
+- Integrated Google Cloud for scalable data storage and retrieval
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sports-Cricket%20%7C%20Football-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR4nGNgwANuCJr+B+GbQmb/MdQRUvxQ0AJsyf///5kIGgJT/EzQBmwJNkNwGvJMwBqn5idCNjgNeSFgidOQl4KWOA15LWiD05A3grY4DXknaIPTkPeCNjgN+SBog9OQj4I2OA35JGiD05DPgjY4DfkiaIPTkK+CNjgN+SZog9OQ74I2OA35IWiD05CfgjY4DfklaIPTkN+CNjgN+SNog9OQv4I2OA35J2iD05D/gjY4DSFoCFbFuBTjVIxPMS7FWBVjVYxNMYZirIqxKsamGEMxVsXYFGNTjKEYq2JsirEpxlCMVTE2xdgUYyjGqhibYmyKMRRjVYxNMTbFGIqxKsamGEMxAJFSyg1/XBMPAAAAAElFTkSuQmCC" alt="Sports" />
-  <img src="https://img.shields.io/badge/TV%20Shows-Vikings%20%7C%20Rick%20and%20Morty-blue?style=for-the-badge&logo=tv-time" alt="TV Shows" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-Tech%20Enthusiast-red?style=for-the-badge&logo=google-scholar" alt="Continuous Learning" />
+### 🔹 Hyderabad Forex Private Limited (April 2024 - August 2024)
+<p>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad-green?style=flat-square"/>
 </p>
 
-## 🤝 Connect with Me
+- Developed dynamic landing page with MERN stack
+- Implemented OCR for processing 5 types of government documents
+- Created admin panel with real-time WhatsApp and email notifications
+- Integrated RBI guidelines for compliance
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sribhargavabhamidi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sribhargava2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+### 🔹 Synergy Solution UK (June 2024 - August 2024)
+<p>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Remote-green?style=flat-square"/>
 </p>
 
----
+- Built GranHub blog site using WordPress
+- Implemented interactive features and games
+- Created community engagement features
+- Developed personalized user experiences
+
+## 🎯 Notable Projects
+
+### 🤖 Drug-Drug Interaction Predictor
+<p>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+- Developed AI-based ensemble deep neural network
+- Achieved 93.80% accuracy in predicting interactions
+- Supported pharmacovigilance and medical decisions
+- Enhanced drug development processes
+
+### 📊 Classroom Attendance System
+<p>
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Face_Recognition-FF0000?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+- Implemented real-time face detection using Haar Cascade
+- Integrated MTCNN and InceptionResnetV1
+- Selected for college-wide implementation
+- Enhanced attendance tracking efficiency
+
+## 🎓 Certifications
+<p>
+  <img src="https://img.shields.io/badge/Wipro-AI_Foundation-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wipro-Cybersecurity_Foundation-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wipro-Cloud_Computing_Foundation-orange?style=flat-square"/>
+</p>
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sribhargavabhamidi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargava1424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargava1424&theme=tokyonight&hide_border=true&background=0D1117" width="400"/>
+</div>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargava1424&theme=react-dark&hide_border=true"/>
+</a>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sribhargavabhamidi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sribhargava2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bhargava1424">
+    <img src="https://img.shields.io/badge/GitHub-Follow-green?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<!-- Matrix Rain Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain"/>
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect+and+innovate+together!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Bhargava1424&style=for-the-badge&color=3B71F3"/>
 </div>
